@@ -1,4 +1,4 @@
-This Python application is a randomizer Android app.
+This Python application is a randomizer Android app. This is my pet project.
 
 The application was written in Python originally for Android. Its goal is to provide an opportunity to make sentences based on a random selection of pairs of phrases. The application has:
 
