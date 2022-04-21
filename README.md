@@ -9,4 +9,6 @@ The application was written in Python originally for Android. Its goal is to pro
 
 The application has a classic interface with menus, settings, instructions and directly its own process. About the application is clearer through the attached gif file:
 
+![Image alt](https://github.com/MisterDROG/Android-Randomizer/blob/master/AndroidApp.gif)
+
 The application was developed by Igor Drogaytsev.
